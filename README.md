@@ -1,6 +1,6 @@
 # Magento CssCategoryAttribute
 #### Overview
-This Magento module adds a new Category attribute called *CSS Classes* which you can set in *Catalog > Manage Categories*.  It is then added to the _li_ on Magento's Topmenu which is used to build the main navigation.
+This Magento module adds a new Category attribute called *CSS Classes* which you can set in *Catalog > Manage Categories*.  It is then added to the _li_ tags on Magento's Topmenu which is used to build the main navigation.
 
 ![CSS Category Attribute](http://rossmchugh.com/wp-content/uploads/2017/03/css-category-attribute.png)
 
